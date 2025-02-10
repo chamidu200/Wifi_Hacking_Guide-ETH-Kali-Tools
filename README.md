@@ -7,7 +7,7 @@
 
 * GitHub: https://github.com/chamidu200
 
-* Telegram: http://t.me/hackingword24
+* Telegram: https://t.me/secure_horizon_MR_C005
 
 * YouTube: https://www.youtube.com/@chamidunimsara20052
 
@@ -101,7 +101,7 @@ Author: Secure Horizon [ M.R.C005 ]
 
 GitHub: github.com/chamidu200
 
-Telegram: t.me/hackingword24
+Telegram: https://t.me/secure_horizon_MR_C005
 
 YouTube: https://www.youtube.com/@chamidunimsara20052
 
@@ -173,9 +173,9 @@ mdk4 wlan0mon d -b blacklist.txt
 ### **කතෘ තොරතුරු:**
 
 - **කතෘ**: Secure Horizon [ M.R.C005 ]
-- **GitHub**: [github.com/chamidu200](https://github.com/chamidu200)
-- **Telegram**: [t.me/hackingword24](https://t.me/hackingword24)
-- **YouTube**: [youtube.com/@chamidunimsara20052](https://www.youtube.com/@chamidunimsara20052)
+- **GitHub**: https://github.com/chamidu200)
+- **Telegram**: https://t.me/secure_horizon_MR_C005
+- **YouTube**: (https://www.youtube.com/@chamidunimsara20052)
 
 ---
 
